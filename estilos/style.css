@@ -21,9 +21,7 @@ body{
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
-    height:100vh; /*Altura total do navegador*/
-    width: 100vw; /*Largura total do navegador*/
-   
+ 
 }
 
 main{
