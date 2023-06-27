@@ -11,9 +11,10 @@ body{
     background-image: url(imagens/fundo-madeira.jpg);
 }
 
-html, body{
+ body {
+    
     height:100vh; /*Altura total do navegador*/
-    width: 100vw; /*Largura total do navegador*/
+    width: 98vw; /*Largura total do navegador*/
     background-color: black;
 }
 
